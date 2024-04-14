@@ -15,6 +15,7 @@ Preservica's metadata management capabilities enable efficient cataloging and or
 ### Design Search Strategies
 
 Preservica empowers users to create effective search strategies, facilitating easy access to relevant information through advanced search functionalities.
+
 ![image](https://github.com/Cindydiaku/CIA-Data-Lifecycle-Management/assets/166257518/75757088-06f0-44da-87c9-d3c10579ed4d)
 
 ### Ensure Compliance
@@ -43,6 +44,7 @@ Explore a demo version of Preservica to see its functionalities in action. Acces
 ## Conclusion
 
 Preservica serves as a powerful tool for managing the lifecycle of data and records within the CIA, contributing to national security efforts through effective data management and preservation. Discover the benefits of Preservica and its role in safeguarding sensitive information for the CIA's mission.
+![image](https://github.com/Cindydiaku/CIA-Data-Lifecycle-Management/assets/166257518/c8991c2c-c313-45ec-9df1-97186bfab8cb)
 
 ## Additional Resources
 
